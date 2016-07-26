@@ -1,2 +1,4 @@
 # buchardo
-atmega328  like arduino leonardo, metaboard  based
+atmega328  como arduino leonardo,  basada en metaboard,
+
+atmega328  like arduino leonardo, metaboard  based  ,
